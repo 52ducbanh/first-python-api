@@ -23,6 +23,6 @@ def sum(dat : phepcong):
     return {
         "First_num: " : a,
         "Second_num: " : b,
-        "ans: ": tong,
+        "ans": tong,
         "note:" : "completed :)" 
     }
